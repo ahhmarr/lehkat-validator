@@ -1,0 +1,31 @@
+{
+  "name": "laehkat-validator",
+  "version": "0.1.0",
+  "authors": [
+    "ahmar siddiqui <ahmar.siddiqui@gmail.com>"
+  ],
+  "description": "a basic jquery form validator",
+  "main": "js/lehkat.min.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "html",
+    "validator",
+    "jquery",
+    "validator",
+    "form",
+    "validator"
+  ],
+"dependencies":{
+	"jquery" : "*"
+},
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
