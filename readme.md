@@ -10,7 +10,7 @@
 
 Include any of the given class to the form elements and they will be validated accordingly
 
-1. ***axBlank ***
+1. ***axBlank***
 		for empty field validation
 2. ***axNumber***
 		for number field validation
