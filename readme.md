@@ -2,7 +2,7 @@
 
 ##Installation
 
-	`bower install lehkat-validator`
+	```bower install lehkat-validator```
 ### include the lehkat.min.js file in your page
 ```<script type="text/javascript" src="vendor/lib/min/lehkat.min.js"></script>```
 
