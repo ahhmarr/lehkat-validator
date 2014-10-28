@@ -1,0 +1,18 @@
+##A Simple JQuery Form Validator
+
+#Basic Usage
+
+1. .axBlank
+	add class .axBlank to the element for blank field validation
+2. .axNumber
+	add this class to the element for number field validation
+3. .axPhone
+	add this class to the element for basic phone number validation
+4. .axEmail
+	add this class to the element for basic email address validation
+5. .axDec
+	add this class to the element for a decimal number validation
+6. .axDocs
+	add this class to the file element which will accept pdf,txt,doc,csv,docx files only
+7..axImg
+
